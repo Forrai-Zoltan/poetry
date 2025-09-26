@@ -38,6 +38,9 @@ body {
 }
 
 #markdown-box {
+}
+
+#markdown-box p {
   margin: 0 auto;
   padding: 50px;
   margin-inline: auto;
