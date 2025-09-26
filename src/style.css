@@ -37,12 +37,19 @@ body {
   user-select: text;
 }
 
+#markdown-box {
+  margin: 0 auto;
+  padding: 50px;
+  margin-inline: auto;
+  max-width: max-content;
+  user-select: text;
+}
 
 p {
   max-width: 60ch;
   hyphens: auto;
   margin: 20px 0;
-  text-indent: 2em;
+  text-indent: 0;
   line-height: 2.5rem;
   user-select: text;
   font-size: 1rem;
