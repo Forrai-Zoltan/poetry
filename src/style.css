@@ -1,0 +1,38 @@
+::selection {
+  background-color: var(--color-green);
+  color: var(--color-green-light);
+}
+
+:focus-visible {
+  outline: 3px solid orange;
+  transition: outline 0.2s ease;
+  border-radius: inherit;
+}
+
+html {
+  font-size: var(--font-size);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: var(--font);
+  scrollbar-color: var(--color-purple-hover) transparent;
+  scrollbar-width: 1px;
+  caret-color: orange;
+  height: 100%;
+  font-size: var(--font-size);
+  font-family: var(--font);
+  background-color: #0f0f0f;
+  color: rgb(200, 200, 200);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #0f0f0f;
+  /* padding: 12px; */
+  padding-top: 0px;
+  box-sizing: border-box;
+  line-height: 1.8;
+  user-select: text;
+}
