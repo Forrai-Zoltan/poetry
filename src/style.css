@@ -36,3 +36,29 @@ body {
   line-height: 1.8;
   user-select: text;
 }
+
+
+p {
+  max-width: 60ch;
+  hyphens: auto;
+  margin: 20px 0;
+  text-indent: 2em;
+  line-height: 2.5rem;
+  user-select: text;
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+hr {
+  color: hsla(var(--color-gray-100-a), 0.4);
+  border: 0.5px solid;
+  border-radius: 100%;
+  max-width: 65ch;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin: 0;
+}
