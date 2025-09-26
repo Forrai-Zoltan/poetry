@@ -45,6 +45,17 @@ body {
   user-select: text;
 }
 
+pre {
+  hyphens: auto;
+  margin: 40px 0;
+  margin-top: 0;
+  text-indent: 0;
+  line-height: 2rem;
+  user-select: text;
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
 p {
   hyphens: auto;
   margin: 40px 0;
