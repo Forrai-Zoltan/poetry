@@ -13,5 +13,5 @@ ye wisps and playful sprites!
 Bear this spell to an elven miss,  
 A witch, or faerie queene;  
 And bid them, with the sweetest kiss,  
-*Wish she be, my Helene?*’  
+*Wish she be my Helene?*’  
 
