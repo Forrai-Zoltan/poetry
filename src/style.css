@@ -1,6 +1,9 @@
 ::selection {
   background-color: var(--color-green-m);
   color: var(--color-green-light);
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: #000;
 }
 
 :focus-visible {
@@ -43,6 +46,7 @@ body {
   margin-inline: auto;
   max-width: max-content;
   user-select: text;
+  -webkit-user-select: text;
 }
 
 pre {
