@@ -2,7 +2,7 @@
 
 A lonely tower hunches o’er  
 A sweep of endless woods;  
-Within, he stood amidst his books,  
+Within he stood, amidst his books,  
 A Wizard yet in youth.
 
 ‘She’s gentle like the early Dawn,  
