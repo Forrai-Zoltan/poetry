@@ -115,4 +115,9 @@ h1 {
     margin: 0;
     border-radius: 10px;
   }
+
+  a#navigate-back-a:hover div#nav-back,
+  a#navigate-back-a:focus-visible div#nav-back {
+    padding-right: 0;
+  }
 }
