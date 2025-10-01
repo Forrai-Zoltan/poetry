@@ -104,14 +104,12 @@ h1 {
 
   #markdown-box p {
     white-space: pre;
-    white-space: pre;
     transform: scale(0.85);
     transform-origin: top left;
     margin-bottom: 0;
   }
 
   a#navigate-back-a {
-
   }
 
   a#navigate-back-a img {
@@ -122,6 +120,6 @@ h1 {
 
   a#navigate-back-a:hover div#nav-back,
   a#navigate-back-a:focus-visible div#nav-back {
-    padding-right: 0;
+    padding-right: 0 !important;
   }
 }
