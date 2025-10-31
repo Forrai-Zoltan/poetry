@@ -9,6 +9,11 @@
   border-radius: inherit;
 }
 
+* {
+  user-select: none;
+  -webkit-user-select: none !important; /* Safari */
+}
+
 html {
   font-size: var(--font-size);
   -webkit-font-smoothing: antialiased;
